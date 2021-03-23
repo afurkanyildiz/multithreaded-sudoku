@@ -151,6 +151,6 @@ int main() {
 			return EXIT_SUCCESS;
 		}
 	}
-	printf("Sudoku Cozumu Gecerli!\n");
+	printf("Sudoku Çözümü Gecerli!\n");
 	return EXIT_SUCCESS;
 }
